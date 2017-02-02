@@ -8,3 +8,5 @@ PYTHONPATH=. nose2
 if you haven't installed this package in your pythonpath anywhere (through virtualenv or side wide).
 
 Note now I modify the PYTHONPATH environment variable to tell nose2 where to find the package. I also use relative imports inside my package to make sure all modules can be found.
+
+In subpackage/utils.py I actually import from the parent directory with the absolute import
