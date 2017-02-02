@@ -3,10 +3,9 @@ This is an example package setup for having unittests in a separate folder from 
 
 Run the unittests from the top folder with:
 ```bash
-PYTHONPATH=. nose2
+nose2
 ``` 
-if you haven't installed this package in your pythonpath anywhere (through virtualenv or side wide).
 
-Note now I modify the PYTHONPATH environment variable to tell nose2 where to find the package. I also use relative imports inside my package to make sure all modules can be found.
+You don't need to modify the PYTHONPATH or install the package (optionally with virtualenv) to make this work. By default python uses the current path to look for a package first. By running `nose2` from the top directory, python finds the package just fine.
 
 In subpackage/utils.py I actually import from the parent directory with the absolute import
