@@ -12,7 +12,11 @@ the three of us concluded there was a lack of decent guidance on how to set up a
 
 * [Dolf Andringa (dolfandringa)][3]
 
-* William Leslie
+* William ML Leslie
+
+## License
+
+All code resources in this project are licensed under the BSD-3. The article itself is licensed under CC-BY 4.0. See LICENSE.md for more information.
 
 [1]: https://dev.to/
 [2]: http://indeliblebluepen.com/
