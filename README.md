@@ -1,3 +1,3 @@
-= Structuring your Python project
+# Structuring your Python project
 
 This article is about......
