@@ -8,9 +8,11 @@ the three of us concluded there was a lack of decent guidance on how to set up a
 
 ## Authors
 
-[Jason C. McDonald (CodeMouse92)][2]
-[Dolf Andringa (dolfandringa)][3]
-William Leslie
+* [Jason C. McDonald (CodeMouse92)][2]
+
+* [Dolf Andringa (dolfandringa)][3]
+
+* William Leslie
 
 [1]: https://dev.to/
 [2]: http://indeliblebluepen.com/
